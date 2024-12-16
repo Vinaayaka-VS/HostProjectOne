@@ -140,7 +140,7 @@ function rulepageDisplay(){
 }
 
 function homepageDisplay() {
-    window.location.replace("menu.html");
+    window.location.replace("index.html");
 }
 
 function quizpageDisplay(){
